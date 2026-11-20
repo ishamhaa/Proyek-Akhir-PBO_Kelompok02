@@ -11,9 +11,9 @@
 
 | Nama | NRP | Akun GitHub |
 |---|---|---|
-| TULIS_DI_SINI | | |
-| | | |
-| | | |
+| Isham Hawali Arijuddin | 5025251079 | ishamhaa |
+| Rizqi Ardiansyah Putra Pratama | 5025251211 | Ciko1140 |
+| Wistara Banyu Kayana | 5025251098 | wistarabanyukayana |
 
 ## Ide dan pembeda
 
