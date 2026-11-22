@@ -31,7 +31,7 @@ Mathflash adalah aplikasi pembelajaran desktop Windows luring untuk membantu sis
 
 ## Untuk guru
 
-- Mata pelajaran dan jenjang: Matematika, SMP kelas 8.
+- Mata pelajaran dan jenjang: TULIS_DI_SINI
 - Tujuan belajar: TULIS_DI_SINI
 - Cakupan materi (dan sumber rujukannya): TULIS_DI_SINI
 - Cara menjalankan dan memakai: TULIS_DI_SINI
